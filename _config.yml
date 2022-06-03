@@ -1,4 +1,7 @@
-title: Netti nett nett
+---
+title: "Netti nett nett"
+date: 2019-01-20
+---
 author: Nettester
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -10,3 +13,8 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
